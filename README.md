@@ -2,3 +2,5 @@
 
 \<IMG src="** choose imported image name **" width=" enter width size " />\
 Forexample: \<IMG src={file name} width="200px" />
+
+use: npm i @ardi83/svg-importer
